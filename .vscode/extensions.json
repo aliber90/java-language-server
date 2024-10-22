@@ -1,6 +1,7 @@
 {
     "recommendations": [
-        "georgewfraser.vscode-javac"
+        "georgewfraser.vscode-javac",
+        "ms-azuretools.vscode-docker"
     ],
     "unwantedRecommendations": [
         "vscjava.vscode-java-pack"
